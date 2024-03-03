@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Patino</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
+- I am an ambitious developer who's focusing on learning and continually contributing to team efforts. I am always seeking opportunities to expand my knowledge and refine my skills as a Front-End Developer.
+
 - 🔭 I’m currently working on [the Charlie App](https://charlie-fawk.onrender.com/pruebabrian/home)
 
 - 🌱 I’m currently learning **ReactNative, Tailwind, Bootstrap, Angular and Vue**
