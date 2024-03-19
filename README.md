@@ -3,6 +3,8 @@
 
 - I am an ambitious developer who's focusing on learning and continually contributing to team efforts. I am always seeking opportunities to expand my knowledge and refine my skills as a Front-End Developer.
 
+- 👨‍💻 Check out my portfolio at  [Daniel Patino Portfolio](https://danielpatinoportfolio.onrender.com)
+
 - 🔭 I’m currently working on [the Charlie App](https://charlie-fawk.onrender.com/pruebabrian/home)
 
 - 🌱 I’m currently learning **ReactNative, Tailwind, Bootstrap, Angular and Vue**
