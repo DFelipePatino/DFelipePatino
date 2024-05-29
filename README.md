@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my portfolio at  [Daniel Patino Portfolio](https://danielpatinoportfolio.onrender.com)
 
-- 🔭 I’m currently working on [a Gym App](https://gymapp-c8w7.onrender.com/)
+- 🔭 I’m currently working on a [Gym App](https://gymapp-c8w7.onrender.com/)
 
 - 🌱 I’m currently learning **ReactNative, Tailwind, Bootstrap, Angular and Vue**
 
