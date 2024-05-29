@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [Gym App](https://gymapp-c8w7.onrender.com/)
 
-- 🌱 I’m currently learning **ReactNative, Tailwind, Bootstrap, Angular and Vue**
+- 🌱 I’m currently learning **ReactNative and Material UI as a styling tool**
 
 - 📫 How to reach me **daniel.patino.work@gmail.com**
 
