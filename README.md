@@ -5,9 +5,7 @@
 
 - 👨‍💻 Check out my portfolio at  [Daniel Patino Portfolio](https://danielpatinoportfolio.onrender.com)
 
-- 🔭 I’m currently working on a [Gym App](https://gymapp-c8w7.onrender.com/)
-
-- 🌱 I’m currently learning **ReactNative and Material UI as a styling tool**
+- 🌱 I’m currently learning **WordPress and PHP**
 
 - 📫 How to reach me **daniel.patino.work@gmail.com**
 
